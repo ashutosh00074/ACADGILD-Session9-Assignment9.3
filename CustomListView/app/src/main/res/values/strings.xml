@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Custom ListView</string>
+    <string name="listitem_row">TextView</string>
+</resources>
